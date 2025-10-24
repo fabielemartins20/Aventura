@@ -1,6 +1,6 @@
 body {
-    background-color: rgba(202, 152, 76, 0.89);
-    color: rgb(41, 145, 20);
+    background-color: rgba(117, 12, 117, 0.89);
+    color: rgb(255, 0, 212)
     font-family: "Playwrite DE SAS", cursive;
     display: flex;
     justify-content: center;
@@ -11,6 +11,6 @@ body {
 
 button {
     background-color: rgb(40, 6, 133);
-    color: rgb(41, 145, 20);
+    color: rgb(255, 0, 212);
     font-family: "Playwrite DE SAS", cursive;
 }
